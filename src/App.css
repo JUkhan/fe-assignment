@@ -1,0 +1,17 @@
+.nav-name {
+  font-size: 2.2em;
+  font-weight: bold;
+  color: #000;
+  padding-top: 23px;
+}
+.update-section {
+  background-color: #39525e;
+  height: 75px;
+  border-radius: 0px 0px 4px 4px;
+}
+.box {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 20px;
+}
